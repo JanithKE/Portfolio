@@ -1,0 +1,66 @@
+
+
+label{
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.contact .left{
+    text-align: center;
+    margin: 0;
+    padding: 0 200px ;
+    max-width: 700px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contact .left h1{
+    font-size: 23px;
+}
+
+.contact .left p{
+    margin: 22px 0;
+    font-size: 30px;
+}
+
+.socialicons{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    background: #c6c6c6;
+    margin: 35px 0;
+}
+
+
+.leavemessage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 70px 30px;
+    margin: auto;
+    max-width: 600px;
+}
+
+form input, form textarea{
+    margin-bottom: 10px;
+    padding: 10px 18px;
+    border-radius: 10px ;
+    background: dimgrey;
+    border-color: dimgray;
+    color: #fff;
+    font-size: 20px;
+}

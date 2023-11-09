@@ -6,18 +6,20 @@ import Home from './Routes/Home';
 import Projects from './Routes/Projects';
 import About from './Routes/About';
 import Contact from './Routes/Contact';
+import Qualifications from './Routes/Qualifications';
 
 
 function App() {
   return (
-    <div>
-      <Routes>
+    
+    <Routes>
       <Route path='/' element={<Home/>}/>
       <Route path='/Projects' element={<Projects/>}/>
+      <Route path='/Qualifications' element={<Qualifications/>}/>
       <Route path='/About' element={<About/>}/>
       <Route path='/Contact' element={<Contact/>}/>
     </Routes>
-    </div>
+   
     
   );
 }

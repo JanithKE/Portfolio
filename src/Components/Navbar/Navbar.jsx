@@ -30,6 +30,7 @@ const Navbar = () => {
         <ul className={click ? "navmenu active" : "navmenu"}>
             <li><Link to='/'>Home</Link></li>
             <li><Link to='/Projects'>Projects</Link></li>
+            <li><Link to='/Qualifications'>Qualifications</Link></li>
             <li><Link to='/About'>About</Link></li>
             <li><Link to='/Contact'>Contact</Link></li>
         </ul>
