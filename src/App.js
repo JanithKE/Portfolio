@@ -7,14 +7,18 @@ import Projects from './Routes/Projects';
 import About from './Routes/About';
 import Contact from './Routes/Contact';
 
+
 function App() {
   return (
-    <Routes>
+    <div>
+      <Routes>
       <Route path='/' element={<Home/>}/>
       <Route path='/Projects' element={<Projects/>}/>
       <Route path='/About' element={<About/>}/>
       <Route path='/Contact' element={<Contact/>}/>
     </Routes>
+    </div>
+    
   );
 }
 
