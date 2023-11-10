@@ -11,7 +11,7 @@ const ProjectCardData =[
         title: "A Restaurent Web Applicattion",
         text: "This is a web application for a Restaurent. This application includes the side navigation and the filtering features to filter food item according to price or preffered food type....",
         view:"/Projects",
-        source:''
+        source:'https://github.com/JanithKE/Restaurent-web'
     },
 
     {
@@ -19,7 +19,7 @@ const ProjectCardData =[
         title: "An E-Commerce Web Applicattion",
         text: "This is a E-Commerce web application designed for a Clothing company with an online ordering system. each of the items in the list can be displayed seperately and we can view their details....",
         view:"/Projects",
-        source:''
+        source:'https://github.com/JanithKE/E-Commerce-App'
     },
 
     {
@@ -27,7 +27,7 @@ const ProjectCardData =[
         title: "A Portfolio Web Applicattio",
         text: "This is a Portfolio web app to display the details of me, qualifications, the projects i have done and my contact details. Here i have use dynamic cards for displaying the projects in the home page. For that i have ...",
         view:"/Projects",
-        source:''
+        source:'https://github.com/JanithKE/Portfolio'
     },
 ];
 
