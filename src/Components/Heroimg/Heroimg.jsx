@@ -1,6 +1,9 @@
 import React from 'react'
 import './Hiroimg.css'
 import { Link } from 'react-router-dom'
+import prof from '../Assets/prof.png'
+
+//the hero of the landing home page
 
 const Heroimg = () => {
   return (
@@ -12,7 +15,7 @@ const Heroimg = () => {
 
         <div className="content">
 
-            <img src="" alt="" />
+            <img className='proimg' src={prof} alt="" />
             <p>HI I'M AN INTERN</p>
             <h1>REACT DEVELOPER</h1>
 

@@ -2,6 +2,8 @@ import React from 'react'
 import './Workcard.css'
 import { NavLink } from 'react-router-dom'
 
+//the local api details of projects with the connection to cards
+
 const Workcard = (props) => {
   return (
     <div className="project-card">

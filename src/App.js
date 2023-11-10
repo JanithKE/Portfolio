@@ -8,6 +8,7 @@ import About from './Routes/About';
 import Contact from './Routes/Contact';
 import Qualifications from './Routes/Qualifications';
 
+//all the page routed added
 
 function App() {
   return (

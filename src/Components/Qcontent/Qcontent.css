@@ -1,0 +1,56 @@
+
+.qcontent{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding: 100px 200px ;
+    padding-top: 20px;
+}
+
+.qcontent h2{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    margin-top: 70px;
+}
+
+.qcontent p{
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 25px;
+}
+
+.qcontent .qimg{
+    width: 400px;
+    height: 300px;
+    
+    border-radius: 10px;
+}
+
+
+@media screen and (max-width:640px){
+    
+    .qcontent{
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+        padding: 50px 80px ;
+        
+    }
+    
+    .qcontent h2{
+        font-size: 30px;
+        
+    }
+    
+    .qcontent p{
+        font-size: 18px;
+       
+    }
+
+
+
+}

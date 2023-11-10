@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import './Heroimg2.css'
 
+//hero for other pages is here with connection to props
+
 class Heroimg2 extends Component{
   render(){
     return (

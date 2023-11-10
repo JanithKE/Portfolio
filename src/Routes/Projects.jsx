@@ -4,6 +4,7 @@ import Footer from '../Components/Footer/Footer'
 import Heroimg2 from '../Components/Heroimg2/Heroimg2'
 import Description from '../Components/Description/Description'
 
+//all the components of the projects page connected
 
 const Projects = () => {
   return (

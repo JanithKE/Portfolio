@@ -4,6 +4,8 @@ import Footer from '../Components/Footer/Footer'
 import Heroimg2 from '../Components/Heroimg2/Heroimg2'
 import Form from '../Components/Form/Form'
 
+//all the components of the contact page connected
+
 const Contact = () => {
   return (
     <div>

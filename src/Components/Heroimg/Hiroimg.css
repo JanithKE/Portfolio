@@ -52,6 +52,13 @@
     margin: 20px 10px;
 }
 
+.content img{
+    width: 250px;
+    height: 250px;
+    border-radius: 130px;
+    margin-bottom: 30px;
+}
+
 
 @media screen and (max-width: 640px) {
 
@@ -62,6 +69,13 @@
     .hero .content p{
         font-size: 30px;
         font-weight: 200;
+    }
+
+    .content img{
+        width: 150px;
+        height: 150px;
+        border-radius: 130px;
+        margin-bottom: 30px;
     }
     
 }

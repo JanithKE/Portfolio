@@ -2,6 +2,8 @@ import React from 'react'
 import './Form.css'
 import { FaFacebook, FaGithub,FaInstagram, FaLinkedin,FaWhatsapp} from 'react-icons/fa'
 
+//the contact page sections
+
 const Form = () => {
   return (
     <div className='form'>

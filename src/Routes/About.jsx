@@ -4,6 +4,8 @@ import Footer from '../Components/Footer/Footer'
 import Heroimg2 from '../Components/Heroimg2/Heroimg2'
 import Aboutcontent from '../Components/Aboutcontent/Aboutcontent'
 
+//all the components of the about page connected
+
 const About = () => {
   return (
     <div>

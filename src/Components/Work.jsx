@@ -2,6 +2,7 @@ import React from 'react'
 import Workcard from './Workcard/Workcard'
 import Workcarddata from './Workcarddata'
 
+//whole connection props of the projects
 
 const Work = () => {
   return (

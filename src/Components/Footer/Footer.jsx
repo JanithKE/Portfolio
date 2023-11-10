@@ -2,6 +2,8 @@ import React from 'react'
 import './Footer.css'
 import { FaFacebook, FaGithub, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone, FaWhatsapp} from 'react-icons/fa'
 
+//complete footer is here
+
 const Footer = () => {
   return (
     <div className='footer'>

@@ -2,6 +2,8 @@ import React from 'react'
 import './Aboutcontent.css'
 import { Link } from 'react-router-dom'
 
+//the sections of the about page 
+
 const Aboutcontent = () => {
   return (
     <div className='about'>

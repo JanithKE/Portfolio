@@ -12,7 +12,7 @@
 }
 
 .descript .left{
-    text-align: center;
+    text-align: right;
     margin: 0;
     padding: 15px;
     max-width: 500px;
@@ -33,5 +33,15 @@
     max-width: 75%;
     border: 1px solid #333;
     border-radius: 10px;
+}
+
+
+@media screen and (max-width:640px) {
+
+    .descript .left{
+        text-align: center;
+       
+    }
+    
 }
 
